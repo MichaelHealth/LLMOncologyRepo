@@ -1,2 +1,2 @@
 # LLMRepo
-A Repo with a collection of LLM Re;lated Material, Links, and Papers
+A Repo with a collection of LLM Related Material, Links, and Papers
